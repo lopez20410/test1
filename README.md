@@ -17,4 +17,4 @@ Esto es una lista desordenada:
  2. Elemento 2
  
 # Navegación
-[Enlace a pagina2](pagina2)
+[Enlace a página 2](pagina2.md)
