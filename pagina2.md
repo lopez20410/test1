@@ -3,4 +3,4 @@ Esta es la página 2 de nuestro sitio.
 
 
 # test1
-[Enlace a READMI](READMI.md)
+[Enlace a README](README.md)
