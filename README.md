@@ -16,3 +16,5 @@ Esto es una lista desordenada:
  1. Elemento 1
  2. Elemento 2
  
+# Navegación
+[Enlace a página 2](pagina2)
